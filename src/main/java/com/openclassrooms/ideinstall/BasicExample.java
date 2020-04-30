@@ -6,6 +6,8 @@ public class BasicExample {
 		 int i;
 		for(i=0; i < 10; i++) {
 			System.out.println("Hello bugs !");
+			// modifié dans eclispe après check pout sur la nouvelle bracnhe locale
+			// puis repush vers le hub
 		}
 	}
 }
